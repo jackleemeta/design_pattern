@@ -4,7 +4,7 @@
 //
 //  Created by part on 2020/9/1.
 //  Copyright © 2020 jacklee. All rights reserved.
-//
+//  设计模式 - 访问者模式
 
 /// 访问者
 class Visitor {
