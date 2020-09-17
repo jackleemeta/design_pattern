@@ -14,6 +14,7 @@
 		C532AF3B24FE1151006AD5C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C532AF3A24FE1151006AD5C0 /* Assets.xcassets */; };
 		C532AF3E24FE1151006AD5C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C532AF3C24FE1151006AD5C0 /* LaunchScreen.storyboard */; };
 		C532AF4624FE1177006AD5C0 /* VisitorPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = C532AF4524FE1177006AD5C0 /* VisitorPattern.swift */; };
+		C5992F81251317B700A11B5D /* FactoryDesignPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5992F80251317B700A11B5D /* FactoryDesignPattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C532AF3D24FE1151006AD5C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C532AF3F24FE1151006AD5C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C532AF4524FE1177006AD5C0 /* VisitorPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisitorPattern.swift; sourceTree = "<group>"; };
+		C5992F80251317B700A11B5D /* FactoryDesignPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactoryDesignPattern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C532AF3324FE1151006AD5C0 /* SceneDelegate.swift */,
 				C532AF3524FE1151006AD5C0 /* ViewController.swift */,
 				C532AF4524FE1177006AD5C0 /* VisitorPattern.swift */,
+				C5992F80251317B700A11B5D /* FactoryDesignPattern.swift */,
 				C532AF3724FE1151006AD5C0 /* Main.storyboard */,
 				C532AF3A24FE1151006AD5C0 /* Assets.xcassets */,
 				C532AF3C24FE1151006AD5C0 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				C532AF3624FE1151006AD5C0 /* ViewController.swift in Sources */,
 				C532AF4624FE1177006AD5C0 /* VisitorPattern.swift in Sources */,
 				C532AF3224FE1151006AD5C0 /* AppDelegate.swift in Sources */,
+				C5992F81251317B700A11B5D /* FactoryDesignPattern.swift in Sources */,
 				C532AF3424FE1151006AD5C0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
